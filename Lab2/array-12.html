@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+
+
+
+        function calc() {
+
+           var input =document.getElementById("array").value;
+           //
+           var array=input.split(',');
+
+
+           var i=0;
+            for( ;i<array.length;i++){
+               if(isNaN(array[i]) || array[i]==""){
+                   alert("Not an array")
+                   break;
+               }
+
+            }
+            if(i==array.length) {
+
+                  alert("Its an array");
+                var sum = 0;
+                var mul = 1;
+                var i = 0;
+                for (; i < array.length; i++) {
+                    sum += (parseInt(array[i]));
+                    mul *= parseInt(array[i]);
+
+                }
+                var res1="Sum is: "+sum;
+                var res2=res1+"<br>Mult is :"+mul;
+
+                document.write(res2);
+
+            }
+
+        }
+
+
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form >
+   Input String: <input type="text" id="array" name="string"><br>
+
+
+  <input type="submit" value="Submit" onclick="calc()">
+</form>
+
+</body>
+</html>

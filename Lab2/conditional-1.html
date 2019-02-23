@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+
+
+
+        function calc() {
+
+            var num1=document.getElementById("number1").value;
+            var num2=document.getElementById("number2").value;
+
+            if(num1>num2)
+                document.write(num1)
+            else
+                document.write(num2)
+        }
+
+
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form action="/action_page.php">
+  Input 1st Number: <input type="number" id="number1" name="number1"><br>
+  Input 2nd Number: <input type="number" id="number2" name="number2"><br>
+
+
+  <input type="submit" value="Submit" onclick="calc()">
+</form>
+
+</body>
+</html>

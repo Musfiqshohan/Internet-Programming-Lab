@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+
+        function calc() {
+
+            var num=document.getElementById("text").value;
+
+            snum= num.toString()
+
+            snum=snum.charAt(0).toLowerCase()+snum.slice(1)
+
+            document.write(snum)
+        }
+
+
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form action="/action_page.php">
+  Input String: <input type="text" id="text" name="string"><br>
+
+
+  <input type="submit" value="Submit" onclick="calc()">
+</form>
+
+</body>
+</html>

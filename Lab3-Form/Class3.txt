@@ -1,0 +1,42 @@
+	AJAX
+-------------------
+
+Asynchronous JAVA Script XML
+
+Ajax is used to transfer a little portion of a large form.
+It is used to save the bandwidth during data transfer.
+
+
+
+if you want to communicate with server 
+using AJAX write the following lines
+in a javascript funciton:
+
+
+xhttp.open(Method,url,bool);
+	    |	  |	|--->asyn or syn
+	    |     |
+	    |     |---->Server URL
+	    |
+	    |---> Get/Post	
+xhtp.send();
+xhttp.responseText;
+xhttp.responseXML;
+
+Design an input form 
+1. name 
+2. Father 
+3. Mother
+4. Contact no
+5. Email
+6. Address -> must be structured
+
+(Address Input Change should be shown)
+(Gram,Road,Upojila/Thana,District)
+Educational Qualification
+------------------------------------------------
+|Exam | Board |	Grading   |  Grade/    | Result
+|Name |       |  Type     |  Marks     | Pass/Fail
+		  /\
+	      Marks Grades
+

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+
+
+        function fact(num) {
+
+            if(num==1)return 1
+            return num* fact(num-1)
+
+        }
+
+        function calc() {
+
+            var num=document.getElementById("number").value;
+
+            var result= fact(num)
+
+
+            document.write(result)
+        }
+
+
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form action="/action_page.php">
+  Input Number: <input type="number" id="number" name="number"><br>
+
+
+  <input type="submit" value="Submit" onclick="calc()">
+</form>
+
+</body>
+</html>

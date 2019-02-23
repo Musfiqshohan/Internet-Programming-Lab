@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+
+        function calc() {
+
+            var snum=document.getElementById("number").value;
+
+
+            snum= snum.split("").reverse().join("")
+
+            document.write(snum)
+        }
+
+
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form action="/action_page.php">
+  Input String: <input type="text" id="number" name="number"><br>
+
+
+  <input type="submit" value="Submit" onclick="calc()">
+</form>
+
+</body>
+</html>

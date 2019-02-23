@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+
+        function calc() {
+
+            var num=document.getElementById("number").value;
+
+            snum= num.toString()
+
+            output=[]
+
+            for ( var i=0;i < snum.length;i++){
+                output.push(+snum.charAt(i))
+
+            }
+
+            document.write(output)
+        }
+
+
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form action="/action_page.php">
+  Input Number: <input type="number" id="number" name="number"><br>
+
+
+  <input type="submit" value="Submit" onclick="calc()">
+</form>
+
+</body>
+</html>

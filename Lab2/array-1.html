@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+
+
+        function is_array(array) {
+
+              var i=0;
+            for( ;i<array.length;i++){
+
+
+                if(array[i]==" ")
+                    continue;
+               if(isNaN(array[i])){
+                   return false;
+
+               }
+
+            }
+            if(i==array.length)
+                return true;
+
+        }
+
+        function calc() {
+
+           var input =document.getElementById("array").value;
+           //
+           var array=input.split(',');
+
+           var ret=is_array(array);
+
+           if(ret==false)
+               alert("Not an array");
+           else
+               alert("Its an array");
+
+
+        }
+
+
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form >
+   Input String: <input type="text" id="array" name="string"><br>
+
+
+  <input type="submit" value="Submit" onclick="calc()">
+</form>
+
+</body>
+</html>

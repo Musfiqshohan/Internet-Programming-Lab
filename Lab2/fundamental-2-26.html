@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+        
+        
+        function check(arg) {
+
+            if(arg=="y" || arg=="yes")
+                return "true";
+            else if(arg=="n" || arg=="no")
+                return "false";
+            else
+                return "Not defined"
+
+            
+        }
+
+        function calc() {
+
+            var arg=document.getElementById("text").value;
+            var res= check(arg);
+
+            document.write(res);
+
+           
+        }
+
+
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form action="/action_page.php">
+  Input String: <input type="text" id="text" name="number"><br>
+
+
+  <input type="submit" value="Submit" onclick="calc()">
+</form>
+
+</body>
+</html>
