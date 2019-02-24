@@ -1,41 +1,25 @@
+<!--Write a JavaScript function to convert a binary number to a decimal number. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <script>
-
-
         function bin_to_dec(binary) {
-
             var dec=parseInt(binary, 2);
             return dec;
-
         }
-
         function calc() {
-
             var num=document.getElementById("number").value;
-
             var res=bin_to_dec(num);
-
             document.write(res);
-
         }
-
-
     </script>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
-
-
 <form action="/action_page.php">
   Input Binary Number: <input type="number" id="number" name="number"><br>
-
-
   <input type="submit" value="Submit" onclick="calc()">
 </form>
-
 </body>
 </html>

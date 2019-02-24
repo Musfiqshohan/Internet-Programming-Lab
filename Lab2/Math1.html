@@ -1,47 +1,30 @@
+<!--Write a JavaScript function to convert a number from one base to another. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <script>
-
-
         function base_convert(number, fbase,tbase) {
-
             var dec=parseInt(number, fbase);
-
             var tonum=dec.toString(tbase);
             return tonum;
-
         }
-
         function calc() {
-
             var number=document.getElementById("number").value;
             var fbase=document.getElementById("fbase").value;
             var tbase=document.getElementById("tbase").value;
-
             var res=base_convert(number,fbase,tbase);
-
             document.write(res);
-
         }
-
-
     </script>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
-
-
 <form action="/action_page.php">
   Input  Number: <input type="number" id="number" name="number"><br>
   Base From: <input type="number" id="fbase" name="base"><br>
   Base To: <input type="number" id="tbase" name="base"><br>
-
-
   <input type="submit" value="Submit" onclick="calc()">
 </form>
-
 </body>
 </html>

@@ -1,52 +1,31 @@
+<!--Write a JavaScript function to get the current date. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <script>
-
-
         function curday(sep) {
-
             var today= new Date();
             var day= today.getDate();
             var month= today.getMonth();
             var year= today.getFullYear();
-
             today= day+sep+month+sep+year;
             return today;
-
         }
-
-
         function calc() {
-
-
             today1=curday('/');
             today2=curday('-');
-
             res1= today1+"<br>"+today2;
             res2= today1+"\n"+today2;
-
             document.write(res1);
-
             return res2;
-
         }
-
-
     </script>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
-
-
 <form action="/action_page.php">
-
-
-
   <input type="submit" value="Get current date" onclick="calc()">
 </form>
-
 </body>
 </html>

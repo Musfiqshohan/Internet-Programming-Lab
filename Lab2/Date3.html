@@ -1,44 +1,26 @@
+<!-- Write a JavaScript function to get the number of days in a month.-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <script>
-
-
     function getDaysInMonth(month, year) {
-
         return new Date(year,month,0).getDate();
-
     }
-
-
     function calc() {
-
-
         var month= document.getElementById("month").value;
         var year= document.getElementById("year").value;
-
         document.write(getDaysInMonth(month,year));
-
     }
-        
-
-        
-
-
     </script>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
-
-
 <form action="/action_page.php">
      Input Month: <input type="number" id="month" name="m"><br>
      Input Year: <input type="number" id="year" name="y"><br>
 
   <input type="submit" value="Get number of days" onclick="calc()">
 </form>
-
 </body>
 </html>
