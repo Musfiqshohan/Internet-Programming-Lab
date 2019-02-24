@@ -1,0 +1,2949 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Home>
+<upazilas>
+	<id>1</id>
+	<district_id>34</district_id>
+	<name>Amtali Upazila</name>
+	<bn_name>আমতলী</bn_name>
+</upazilas>
+<upazilas>
+	<id>2</id>
+	<district_id>34</district_id>
+	<name>Bamna Upazila</name>
+	<bn_name>বামনা</bn_name>
+</upazilas>
+<upazilas>
+	<id>3</id>
+	<district_id>34</district_id>
+	<name>Barguna Sadar Upazila</name>
+	<bn_name>বরগুনা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>4</id>
+	<district_id>34</district_id>
+	<name>Betagi Upazila</name>
+	<bn_name>বেতাগি</bn_name>
+</upazilas>
+<upazilas>
+	<id>5</id>
+	<district_id>34</district_id>
+	<name>Patharghata Upazila</name>
+	<bn_name>পাথরঘাটা</bn_name>
+</upazilas>
+<upazilas>
+	<id>6</id>
+	<district_id>34</district_id>
+	<name>Taltali Upazila</name>
+	<bn_name>তালতলী</bn_name>
+</upazilas>
+<upazilas>
+	<id>7</id>
+	<district_id>35</district_id>
+	<name>Muladi Upazila</name>
+	<bn_name>মুলাদি</bn_name>
+</upazilas>
+<upazilas>
+	<id>8</id>
+	<district_id>35</district_id>
+	<name>Babuganj Upazila</name>
+	<bn_name>বাবুগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>9</id>
+	<district_id>35</district_id>
+	<name>Agailjhara Upazila</name>
+	<bn_name>আগাইলঝরা</bn_name>
+</upazilas>
+<upazilas>
+	<id>10</id>
+	<district_id>35</district_id>
+	<name>Barisal Sadar Upazila</name>
+	<bn_name>বরিশাল সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>11</id>
+	<district_id>35</district_id>
+	<name>Bakerganj Upazila</name>
+	<bn_name>বাকেরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>12</id>
+	<district_id>35</district_id>
+	<name>Banaripara Upazila</name>
+	<bn_name>বানাড়িপারা</bn_name>
+</upazilas>
+<upazilas>
+	<id>13</id>
+	<district_id>35</district_id>
+	<name>Gaurnadi Upazila</name>
+	<bn_name>গৌরনদী</bn_name>
+</upazilas>
+<upazilas>
+	<id>14</id>
+	<district_id>35</district_id>
+	<name>Hizla Upazila</name>
+	<bn_name>হিজলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>15</id>
+	<district_id>35</district_id>
+	<name>Mehendiganj Upazila</name>
+	<bn_name>মেহেদিগঞ্জ </bn_name>
+</upazilas>
+<upazilas>
+	<id>16</id>
+	<district_id>35</district_id>
+	<name>Wazirpur Upazila</name>
+	<bn_name>ওয়াজিরপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>17</id>
+	<district_id>36</district_id>
+	<name>Bhola Sadar Upazila</name>
+	<bn_name>ভোলা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>18</id>
+	<district_id>36</district_id>
+	<name>Burhanuddin Upazila</name>
+	<bn_name>বুরহানউদ্দিন</bn_name>
+</upazilas>
+<upazilas>
+	<id>19</id>
+	<district_id>36</district_id>
+	<name>Char Fasson Upazila</name>
+	<bn_name>চর ফ্যাশন</bn_name>
+</upazilas>
+<upazilas>
+	<id>20</id>
+	<district_id>36</district_id>
+	<name>Daulatkhan Upazila</name>
+	<bn_name>দৌলতখান</bn_name>
+</upazilas>
+<upazilas>
+	<id>21</id>
+	<district_id>36</district_id>
+	<name>Lalmohan Upazila</name>
+	<bn_name>লালমোহন</bn_name>
+</upazilas>
+<upazilas>
+	<id>22</id>
+	<district_id>36</district_id>
+	<name>Manpura Upazila</name>
+	<bn_name>মনপুরা</bn_name>
+</upazilas>
+<upazilas>
+	<id>23</id>
+	<district_id>36</district_id>
+	<name>Tazumuddin Upazila</name>
+	<bn_name>তাজুমুদ্দিন</bn_name>
+</upazilas>
+<upazilas>
+	<id>24</id>
+	<district_id>37</district_id>
+	<name>Jhalokati Sadar Upazila</name>
+	<bn_name>ঝালকাঠি সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>25</id>
+	<district_id>37</district_id>
+	<name>Kathalia Upazila</name>
+	<bn_name>কাঁঠালিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>26</id>
+	<district_id>37</district_id>
+	<name>Nalchity Upazila</name>
+	<bn_name>নালচিতি</bn_name>
+</upazilas>
+<upazilas>
+	<id>27</id>
+	<district_id>37</district_id>
+	<name>Rajapur Upazila</name>
+	<bn_name>রাজাপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>28</id>
+	<district_id>38</district_id>
+	<name>Bauphal Upazila</name>
+	<bn_name>বাউফল</bn_name>
+</upazilas>
+<upazilas>
+	<id>29</id>
+	<district_id>38</district_id>
+	<name>Dashmina Upazila</name>
+	<bn_name>দশমিনা</bn_name>
+</upazilas>
+<upazilas>
+	<id>30</id>
+	<district_id>38</district_id>
+	<name>Galachipa Upazila</name>
+	<bn_name>গলাচিপা</bn_name>
+</upazilas>
+<upazilas>
+	<id>31</id>
+	<district_id>38</district_id>
+	<name>Kalapara Upazila</name>
+	<bn_name>কালাপারা</bn_name>
+</upazilas>
+<upazilas>
+	<id>32</id>
+	<district_id>38</district_id>
+	<name>Mirzaganj Upazila</name>
+	<bn_name>মির্জাগঞ্জ </bn_name>
+</upazilas>
+<upazilas>
+	<id>33</id>
+	<district_id>38</district_id>
+	<name>Patuakhali Sadar Upazila</name>
+	<bn_name>পটুয়াখালী সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>34</id>
+	<district_id>38</district_id>
+	<name>Dumki Upazila</name>
+	<bn_name>ডুমকি</bn_name>
+</upazilas>
+<upazilas>
+	<id>35</id>
+	<district_id>38</district_id>
+	<name>Rangabali Upazila</name>
+	<bn_name>রাঙ্গাবালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>36</id>
+	<district_id>39</district_id>
+	<name>Bhandaria</name>
+	<bn_name>ভ্যান্ডারিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>37</id>
+	<district_id>39</district_id>
+	<name>Kaukhali</name>
+	<bn_name>কাউখালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>38</id>
+	<district_id>39</district_id>
+	<name>Mathbaria</name>
+	<bn_name>মাঠবাড়িয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>39</id>
+	<district_id>39</district_id>
+	<name>Nazirpur</name>
+	<bn_name>নাজিরপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>40</id>
+	<district_id>39</district_id>
+	<name>Nesarabad</name>
+	<bn_name>নেসারাবাদ</bn_name>
+</upazilas>
+<upazilas>
+	<id>41</id>
+	<district_id>39</district_id>
+	<name>Pirojpur Sadar</name>
+	<bn_name>পিরোজপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>42</id>
+	<district_id>39</district_id>
+	<name>Zianagar</name>
+	<bn_name>জিয়ানগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>43</id>
+	<district_id>40</district_id>
+	<name>Bandarban Sadar</name>
+	<bn_name>বান্দরবন সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>44</id>
+	<district_id>40</district_id>
+	<name>Thanchi</name>
+	<bn_name>থানচি</bn_name>
+</upazilas>
+<upazilas>
+	<id>45</id>
+	<district_id>40</district_id>
+	<name>Lama</name>
+	<bn_name>লামা</bn_name>
+</upazilas>
+<upazilas>
+	<id>46</id>
+	<district_id>40</district_id>
+	<name>Naikhongchhari</name>
+	<bn_name>নাইখংছড়ি </bn_name>
+</upazilas>
+<upazilas>
+	<id>47</id>
+	<district_id>40</district_id>
+	<name>Ali kadam</name>
+	<bn_name>আলী কদম</bn_name>
+</upazilas>
+<upazilas>
+	<id>48</id>
+	<district_id>40</district_id>
+	<name>Rowangchhari</name>
+	<bn_name>রউয়াংছড়ি </bn_name>
+</upazilas>
+<upazilas>
+	<id>49</id>
+	<district_id>40</district_id>
+	<name>Ruma</name>
+	<bn_name>রুমা</bn_name>
+</upazilas>
+<upazilas>
+	<id>50</id>
+	<district_id>41</district_id>
+	<name>Brahmanbaria Sadar Upazila</name>
+	<bn_name>ব্রাহ্মণবাড়িয়া সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>51</id>
+	<district_id>41</district_id>
+	<name>Ashuganj Upazila</name>
+	<bn_name>আশুগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>52</id>
+	<district_id>41</district_id>
+	<name>Nasirnagar Upazila</name>
+	<bn_name>নাসির নগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>53</id>
+	<district_id>41</district_id>
+	<name>Nabinagar Upazila</name>
+	<bn_name>নবীনগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>54</id>
+	<district_id>41</district_id>
+	<name>Sarail Upazila</name>
+	<bn_name>সরাইল</bn_name>
+</upazilas>
+<upazilas>
+	<id>55</id>
+	<district_id>41</district_id>
+	<name>Shahbazpur Town</name>
+	<bn_name>শাহবাজপুর টাউন</bn_name>
+</upazilas>
+<upazilas>
+	<id>56</id>
+	<district_id>41</district_id>
+	<name>Kasba Upazila</name>
+	<bn_name>কসবা</bn_name>
+</upazilas>
+<upazilas>
+	<id>57</id>
+	<district_id>41</district_id>
+	<name>Akhaura Upazila</name>
+	<bn_name>আখাউরা</bn_name>
+</upazilas>
+<upazilas>
+	<id>58</id>
+	<district_id>41</district_id>
+	<name>Bancharampur Upazila</name>
+	<bn_name>বাঞ্ছারামপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>59</id>
+	<district_id>41</district_id>
+	<name>Bijoynagar Upazila</name>
+	<bn_name>বিজয় নগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>60</id>
+	<district_id>42</district_id>
+	<name>Chandpur Sadar</name>
+	<bn_name>চাঁদপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>61</id>
+	<district_id>42</district_id>
+	<name>Faridganj</name>
+	<bn_name>ফরিদগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>62</id>
+	<district_id>42</district_id>
+	<name>Haimchar</name>
+	<bn_name>হাইমচর</bn_name>
+</upazilas>
+<upazilas>
+	<id>63</id>
+	<district_id>42</district_id>
+	<name>Haziganj</name>
+	<bn_name>হাজীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>64</id>
+	<district_id>42</district_id>
+	<name>Kachua</name>
+	<bn_name>কচুয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>65</id>
+	<district_id>42</district_id>
+	<name>Matlab Uttar</name>
+	<bn_name>মতলব উত্তর</bn_name>
+</upazilas>
+<upazilas>
+	<id>66</id>
+	<district_id>42</district_id>
+	<name>Matlab Dakkhin</name>
+	<bn_name>মতলব দক্ষিণ</bn_name>
+</upazilas>
+<upazilas>
+	<id>67</id>
+	<district_id>42</district_id>
+	<name>Shahrasti</name>
+	<bn_name>শাহরাস্তি</bn_name>
+</upazilas>
+<upazilas>
+	<id>68</id>
+	<district_id>43</district_id>
+	<name>Anwara Upazila</name>
+	<bn_name>আনোয়ারা</bn_name>
+</upazilas>
+<upazilas>
+	<id>69</id>
+	<district_id>43</district_id>
+	<name>Banshkhali Upazila</name>
+	<bn_name>বাশখালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>70</id>
+	<district_id>43</district_id>
+	<name>Boalkhali Upazila</name>
+	<bn_name>বোয়ালখালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>71</id>
+	<district_id>43</district_id>
+	<name>Chandanaish Upazila</name>
+	<bn_name>চন্দনাইশ</bn_name>
+</upazilas>
+<upazilas>
+	<id>72</id>
+	<district_id>43</district_id>
+	<name>Fatikchhari Upazila</name>
+	<bn_name>ফটিকছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>73</id>
+	<district_id>43</district_id>
+	<name>Hathazari Upazila</name>
+	<bn_name>হাঠহাজারী</bn_name>
+</upazilas>
+<upazilas>
+	<id>74</id>
+	<district_id>43</district_id>
+	<name>Lohagara Upazila</name>
+	<bn_name>লোহাগারা</bn_name>
+</upazilas>
+<upazilas>
+	<id>75</id>
+	<district_id>43</district_id>
+	<name>Mirsharai Upazila</name>
+	<bn_name>মিরসরাই</bn_name>
+</upazilas>
+<upazilas>
+	<id>76</id>
+	<district_id>43</district_id>
+	<name>Patiya Upazila</name>
+	<bn_name>পটিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>77</id>
+	<district_id>43</district_id>
+	<name>Rangunia Upazila</name>
+	<bn_name>রাঙ্গুনিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>78</id>
+	<district_id>43</district_id>
+	<name>Raozan Upazila</name>
+	<bn_name>রাউজান</bn_name>
+</upazilas>
+<upazilas>
+	<id>79</id>
+	<district_id>43</district_id>
+	<name>Sandwip Upazila</name>
+	<bn_name>সন্দ্বীপ</bn_name>
+</upazilas>
+<upazilas>
+	<id>80</id>
+	<district_id>43</district_id>
+	<name>Satkania Upazila</name>
+	<bn_name>সাতকানিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>81</id>
+	<district_id>43</district_id>
+	<name>Sitakunda Upazila</name>
+	<bn_name>সীতাকুণ্ড</bn_name>
+</upazilas>
+<upazilas>
+	<id>82</id>
+	<district_id>44</district_id>
+	<name>Barura Upazila</name>
+	<bn_name>বড়ুরা</bn_name>
+</upazilas>
+<upazilas>
+	<id>83</id>
+	<district_id>44</district_id>
+	<name>Brahmanpara Upazila</name>
+	<bn_name>ব্রাহ্মণপাড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>84</id>
+	<district_id>44</district_id>
+	<name>Burichong Upazila</name>
+	<bn_name>বুড়িচং</bn_name>
+</upazilas>
+<upazilas>
+	<id>85</id>
+	<district_id>44</district_id>
+	<name>Chandina Upazila</name>
+	<bn_name>চান্দিনা</bn_name>
+</upazilas>
+<upazilas>
+	<id>86</id>
+	<district_id>44</district_id>
+	<name>Chauddagram Upazila</name>
+	<bn_name>চৌদ্দগ্রাম</bn_name>
+</upazilas>
+<upazilas>
+	<id>87</id>
+	<district_id>44</district_id>
+	<name>Daudkandi Upazila</name>
+	<bn_name>দাউদকান্দি</bn_name>
+</upazilas>
+<upazilas>
+	<id>88</id>
+	<district_id>44</district_id>
+	<name>Debidwar Upazila</name>
+	<bn_name>দেবীদ্বার</bn_name>
+</upazilas>
+<upazilas>
+	<id>89</id>
+	<district_id>44</district_id>
+	<name>Homna Upazila</name>
+	<bn_name>হোমনা</bn_name>
+</upazilas>
+<upazilas>
+	<id>90</id>
+	<district_id>44</district_id>
+	<name>Comilla Sadar Upazila</name>
+	<bn_name>কুমিল্লা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>91</id>
+	<district_id>44</district_id>
+	<name>Laksam Upazila</name>
+	<bn_name>লাকসাম</bn_name>
+</upazilas>
+<upazilas>
+	<id>92</id>
+	<district_id>44</district_id>
+	<name>Monohorgonj Upazila</name>
+	<bn_name>মনোহরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>93</id>
+	<district_id>44</district_id>
+	<name>Meghna Upazila</name>
+	<bn_name>মেঘনা</bn_name>
+</upazilas>
+<upazilas>
+	<id>94</id>
+	<district_id>44</district_id>
+	<name>Muradnagar Upazila</name>
+	<bn_name>মুরাদনগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>95</id>
+	<district_id>44</district_id>
+	<name>Nangalkot Upazila</name>
+	<bn_name>নাঙ্গালকোট</bn_name>
+</upazilas>
+<upazilas>
+	<id>96</id>
+	<district_id>44</district_id>
+	<name>Comilla Sadar South Upazila</name>
+	<bn_name>কুমিল্লা সদর দক্ষিণ</bn_name>
+</upazilas>
+<upazilas>
+	<id>97</id>
+	<district_id>44</district_id>
+	<name>Titas Upazila</name>
+	<bn_name>তিতাস</bn_name>
+</upazilas>
+<upazilas>
+	<id>98</id>
+	<district_id>45</district_id>
+	<name>Chakaria Upazila</name>
+	<bn_name>চকরিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>100</id>
+	<district_id>45</district_id>
+	<name>{{198}}&apos;&apos;{{199}}</name>
+	<bn_name>কক্স বাজার সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>101</id>
+	<district_id>45</district_id>
+	<name>Kutubdia Upazila</name>
+	<bn_name>কুতুবদিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>102</id>
+	<district_id>45</district_id>
+	<name>Maheshkhali Upazila</name>
+	<bn_name>মহেশখালী</bn_name>
+</upazilas>
+<upazilas>
+	<id>103</id>
+	<district_id>45</district_id>
+	<name>Ramu Upazila</name>
+	<bn_name>রামু</bn_name>
+</upazilas>
+<upazilas>
+	<id>104</id>
+	<district_id>45</district_id>
+	<name>Teknaf Upazila</name>
+	<bn_name>টেকনাফ</bn_name>
+</upazilas>
+<upazilas>
+	<id>105</id>
+	<district_id>45</district_id>
+	<name>Ukhia Upazila</name>
+	<bn_name>উখিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>106</id>
+	<district_id>45</district_id>
+	<name>Pekua Upazila</name>
+	<bn_name>পেকুয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>107</id>
+	<district_id>46</district_id>
+	<name>Feni Sadar</name>
+	<bn_name>ফেনী সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>108</id>
+	<district_id>46</district_id>
+	<name>Chagalnaiya</name>
+	<bn_name>ছাগল নাইয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>109</id>
+	<district_id>46</district_id>
+	<name>Daganbhyan</name>
+	<bn_name>দাগানভিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>110</id>
+	<district_id>46</district_id>
+	<name>Parshuram</name>
+	<bn_name>পরশুরাম</bn_name>
+</upazilas>
+<upazilas>
+	<id>111</id>
+	<district_id>46</district_id>
+	<name>Fhulgazi</name>
+	<bn_name>ফুলগাজি</bn_name>
+</upazilas>
+<upazilas>
+	<id>112</id>
+	<district_id>46</district_id>
+	<name>Sonagazi</name>
+	<bn_name>সোনাগাজি</bn_name>
+</upazilas>
+<upazilas>
+	<id>113</id>
+	<district_id>47</district_id>
+	<name>Dighinala Upazila</name>
+	<bn_name>দিঘিনালা </bn_name>
+</upazilas>
+<upazilas>
+	<id>114</id>
+	<district_id>47</district_id>
+	<name>Khagrachhari Upazila</name>
+	<bn_name>খাগড়াছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>115</id>
+	<district_id>47</district_id>
+	<name>Lakshmichhari Upazila</name>
+	<bn_name>লক্ষ্মীছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>116</id>
+	<district_id>47</district_id>
+	<name>Mahalchhari Upazila</name>
+	<bn_name>মহলছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>117</id>
+	<district_id>47</district_id>
+	<name>Manikchhari Upazila</name>
+	<bn_name>মানিকছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>118</id>
+	<district_id>47</district_id>
+	<name>Matiranga Upazila</name>
+	<bn_name>মাটিরাঙ্গা</bn_name>
+</upazilas>
+<upazilas>
+	<id>119</id>
+	<district_id>47</district_id>
+	<name>Panchhari Upazila</name>
+	<bn_name>পানছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>120</id>
+	<district_id>47</district_id>
+	<name>Ramgarh Upazila</name>
+	<bn_name>রামগড়</bn_name>
+</upazilas>
+<upazilas>
+	<id>121</id>
+	<district_id>48</district_id>
+	<name>Lakshmipur Sadar Upazila</name>
+	<bn_name>লক্ষ্মীপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>122</id>
+	<district_id>48</district_id>
+	<name>Raipur Upazila</name>
+	<bn_name>রায়পুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>123</id>
+	<district_id>48</district_id>
+	<name>Ramganj Upazila</name>
+	<bn_name>রামগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>124</id>
+	<district_id>48</district_id>
+	<name>Ramgati Upazila</name>
+	<bn_name>রামগতি</bn_name>
+</upazilas>
+<upazilas>
+	<id>125</id>
+	<district_id>48</district_id>
+	<name>Komol Nagar Upazila</name>
+	<bn_name>কমল নগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>126</id>
+	<district_id>49</district_id>
+	<name>Noakhali Sadar Upazila</name>
+	<bn_name>নোয়াখালী সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>127</id>
+	<district_id>49</district_id>
+	<name>Begumganj Upazila</name>
+	<bn_name>বেগমগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>128</id>
+	<district_id>49</district_id>
+	<name>Chatkhil Upazila</name>
+	<bn_name>চাটখিল</bn_name>
+</upazilas>
+<upazilas>
+	<id>129</id>
+	<district_id>49</district_id>
+	<name>Companyganj Upazila</name>
+	<bn_name>কোম্পানীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>130</id>
+	<district_id>49</district_id>
+	<name>Shenbag Upazila</name>
+	<bn_name>শেনবাগ</bn_name>
+</upazilas>
+<upazilas>
+	<id>131</id>
+	<district_id>49</district_id>
+	<name>Hatia Upazila</name>
+	<bn_name>হাতিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>132</id>
+	<district_id>49</district_id>
+	<name>Kobirhat Upazila</name>
+	<bn_name>কবিরহাট </bn_name>
+</upazilas>
+<upazilas>
+	<id>133</id>
+	<district_id>49</district_id>
+	<name>Sonaimuri Upazila</name>
+	<bn_name>সোনাইমুরি</bn_name>
+</upazilas>
+<upazilas>
+	<id>134</id>
+	<district_id>49</district_id>
+	<name>Suborno Char Upazila</name>
+	<bn_name>সুবর্ণ চর </bn_name>
+</upazilas>
+<upazilas>
+	<id>135</id>
+	<district_id>50</district_id>
+	<name>Rangamati Sadar Upazila</name>
+	<bn_name>রাঙ্গামাটি সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>136</id>
+	<district_id>50</district_id>
+	<name>Belaichhari Upazila</name>
+	<bn_name>বেলাইছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>137</id>
+	<district_id>50</district_id>
+	<name>Bagaichhari Upazila</name>
+	<bn_name>বাঘাইছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>138</id>
+	<district_id>50</district_id>
+	<name>Barkal Upazila</name>
+	<bn_name>বরকল</bn_name>
+</upazilas>
+<upazilas>
+	<id>139</id>
+	<district_id>50</district_id>
+	<name>Juraichhari Upazila</name>
+	<bn_name>জুরাইছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>140</id>
+	<district_id>50</district_id>
+	<name>Rajasthali Upazila</name>
+	<bn_name>রাজাস্থলি</bn_name>
+</upazilas>
+<upazilas>
+	<id>141</id>
+	<district_id>50</district_id>
+	<name>Kaptai Upazila</name>
+	<bn_name>কাপ্তাই</bn_name>
+</upazilas>
+<upazilas>
+	<id>142</id>
+	<district_id>50</district_id>
+	<name>Langadu Upazila</name>
+	<bn_name>লাঙ্গাডু</bn_name>
+</upazilas>
+<upazilas>
+	<id>143</id>
+	<district_id>50</district_id>
+	<name>Nannerchar Upazila</name>
+	<bn_name>নান্নেরচর </bn_name>
+</upazilas>
+<upazilas>
+	<id>144</id>
+	<district_id>50</district_id>
+	<name>Kaukhali Upazila</name>
+	<bn_name>কাউখালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>145</id>
+	<district_id>1</district_id>
+	<name>Dhamrai Upazila</name>
+	<bn_name>ধামরাই</bn_name>
+</upazilas>
+<upazilas>
+	<id>146</id>
+	<district_id>1</district_id>
+	<name>Dohar Upazila</name>
+	<bn_name>দোহার</bn_name>
+</upazilas>
+<upazilas>
+	<id>147</id>
+	<district_id>1</district_id>
+	<name>Keraniganj Upazila</name>
+	<bn_name>কেরানীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>148</id>
+	<district_id>1</district_id>
+	<name>Nawabganj Upazila</name>
+	<bn_name>নবাবগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>149</id>
+	<district_id>1</district_id>
+	<name>Savar Upazila</name>
+	<bn_name>সাভার</bn_name>
+</upazilas>
+<upazilas>
+	<id>150</id>
+	<district_id>2</district_id>
+	<name>Faridpur Sadar Upazila</name>
+	<bn_name>ফরিদপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>151</id>
+	<district_id>2</district_id>
+	<name>Boalmari Upazila</name>
+	<bn_name>বোয়ালমারী</bn_name>
+</upazilas>
+<upazilas>
+	<id>152</id>
+	<district_id>2</district_id>
+	<name>Alfadanga Upazila</name>
+	<bn_name>আলফাডাঙ্গা</bn_name>
+</upazilas>
+<upazilas>
+	<id>153</id>
+	<district_id>2</district_id>
+	<name>Madhukhali Upazila</name>
+	<bn_name>মধুখালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>154</id>
+	<district_id>2</district_id>
+	<name>Bhanga Upazila</name>
+	<bn_name>ভাঙ্গা</bn_name>
+</upazilas>
+<upazilas>
+	<id>155</id>
+	<district_id>2</district_id>
+	<name>Nagarkanda Upazila</name>
+	<bn_name>নগরকান্ড</bn_name>
+</upazilas>
+<upazilas>
+	<id>156</id>
+	<district_id>2</district_id>
+	<name>Charbhadrasan Upazila</name>
+	<bn_name>চরভদ্রাসন </bn_name>
+</upazilas>
+<upazilas>
+	<id>157</id>
+	<district_id>2</district_id>
+	<name>Sadarpur Upazila</name>
+	<bn_name>সদরপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>158</id>
+	<district_id>2</district_id>
+	<name>Shaltha Upazila</name>
+	<bn_name>শালথা</bn_name>
+</upazilas>
+<upazilas>
+	<id>159</id>
+	<district_id>3</district_id>
+	<name>Gazipur Sadar-Joydebpur</name>
+	<bn_name>গাজীপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>160</id>
+	<district_id>3</district_id>
+	<name>Kaliakior</name>
+	<bn_name>কালিয়াকৈর</bn_name>
+</upazilas>
+<upazilas>
+	<id>161</id>
+	<district_id>3</district_id>
+	<name>Kapasia</name>
+	<bn_name>কাপাসিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>162</id>
+	<district_id>3</district_id>
+	<name>Sripur</name>
+	<bn_name>শ্রীপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>163</id>
+	<district_id>3</district_id>
+	<name>Kaliganj</name>
+	<bn_name>কালীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>164</id>
+	<district_id>3</district_id>
+	<name>Tongi</name>
+	<bn_name>টঙ্গি</bn_name>
+</upazilas>
+<upazilas>
+	<id>165</id>
+	<district_id>4</district_id>
+	<name>Gopalganj Sadar Upazila</name>
+	<bn_name>গোপালগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>166</id>
+	<district_id>4</district_id>
+	<name>Kashiani Upazila</name>
+	<bn_name>কাশিয়ানি</bn_name>
+</upazilas>
+<upazilas>
+	<id>167</id>
+	<district_id>4</district_id>
+	<name>Kotalipara Upazila</name>
+	<bn_name>কোটালিপাড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>168</id>
+	<district_id>4</district_id>
+	<name>Muksudpur Upazila</name>
+	<bn_name>মুকসুদপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>169</id>
+	<district_id>4</district_id>
+	<name>Tungipara Upazila</name>
+	<bn_name>টুঙ্গিপাড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>170</id>
+	<district_id>5</district_id>
+	<name>Dewanganj Upazila</name>
+	<bn_name>দেওয়ানগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>171</id>
+	<district_id>5</district_id>
+	<name>Baksiganj Upazila</name>
+	<bn_name>বকসিগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>172</id>
+	<district_id>5</district_id>
+	<name>Islampur Upazila</name>
+	<bn_name>ইসলামপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>173</id>
+	<district_id>5</district_id>
+	<name>Jamalpur Sadar Upazila</name>
+	<bn_name>জামালপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>174</id>
+	<district_id>5</district_id>
+	<name>Madarganj Upazila</name>
+	<bn_name>মাদারগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>175</id>
+	<district_id>5</district_id>
+	<name>Melandaha Upazila</name>
+	<bn_name>মেলানদাহা</bn_name>
+</upazilas>
+<upazilas>
+	<id>176</id>
+	<district_id>5</district_id>
+	<name>Sarishabari Upazila</name>
+	<bn_name>সরিষাবাড়ি </bn_name>
+</upazilas>
+<upazilas>
+	<id>177</id>
+	<district_id>5</district_id>
+	<name>Narundi Police I.C</name>
+	<bn_name>নারুন্দি</bn_name>
+</upazilas>
+<upazilas>
+	<id>178</id>
+	<district_id>6</district_id>
+	<name>Astagram Upazila</name>
+	<bn_name>অষ্টগ্রাম</bn_name>
+</upazilas>
+<upazilas>
+	<id>179</id>
+	<district_id>6</district_id>
+	<name>Bajitpur Upazila</name>
+	<bn_name>বাজিতপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>180</id>
+	<district_id>6</district_id>
+	<name>Bhairab Upazila</name>
+	<bn_name>ভৈরব</bn_name>
+</upazilas>
+<upazilas>
+	<id>181</id>
+	<district_id>6</district_id>
+	<name>Hossainpur Upazila</name>
+	<bn_name>হোসেনপুর </bn_name>
+</upazilas>
+<upazilas>
+	<id>182</id>
+	<district_id>6</district_id>
+	<name>Itna Upazila</name>
+	<bn_name>ইটনা</bn_name>
+</upazilas>
+<upazilas>
+	<id>183</id>
+	<district_id>6</district_id>
+	<name>Karimganj Upazila</name>
+	<bn_name>করিমগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>184</id>
+	<district_id>6</district_id>
+	<name>Katiadi Upazila</name>
+	<bn_name>কতিয়াদি</bn_name>
+</upazilas>
+<upazilas>
+	<id>185</id>
+	<district_id>6</district_id>
+	<name>Kishoreganj Sadar Upazila</name>
+	<bn_name>কিশোরগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>186</id>
+	<district_id>6</district_id>
+	<name>Kuliarchar Upazila</name>
+	<bn_name>কুলিয়ারচর</bn_name>
+</upazilas>
+<upazilas>
+	<id>187</id>
+	<district_id>6</district_id>
+	<name>Mithamain Upazila</name>
+	<bn_name>মিঠামাইন</bn_name>
+</upazilas>
+<upazilas>
+	<id>188</id>
+	<district_id>6</district_id>
+	<name>Nikli Upazila</name>
+	<bn_name>নিকলি</bn_name>
+</upazilas>
+<upazilas>
+	<id>189</id>
+	<district_id>6</district_id>
+	<name>Pakundia Upazila</name>
+	<bn_name>পাকুন্ডা</bn_name>
+</upazilas>
+<upazilas>
+	<id>190</id>
+	<district_id>6</district_id>
+	<name>Tarail Upazila</name>
+	<bn_name>তাড়াইল</bn_name>
+</upazilas>
+<upazilas>
+	<id>191</id>
+	<district_id>7</district_id>
+	<name>Madaripur Sadar</name>
+	<bn_name>মাদারীপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>192</id>
+	<district_id>7</district_id>
+	<name>Kalkini</name>
+	<bn_name>কালকিনি</bn_name>
+</upazilas>
+<upazilas>
+	<id>193</id>
+	<district_id>7</district_id>
+	<name>Rajoir</name>
+	<bn_name>রাজইর</bn_name>
+</upazilas>
+<upazilas>
+	<id>194</id>
+	<district_id>7</district_id>
+	<name>Shibchar</name>
+	<bn_name>শিবচর</bn_name>
+</upazilas>
+<upazilas>
+	<id>195</id>
+	<district_id>8</district_id>
+	<name>Manikganj Sadar Upazila</name>
+	<bn_name>মানিকগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>196</id>
+	<district_id>8</district_id>
+	<name>Singair Upazila</name>
+	<bn_name>সিঙ্গাইর</bn_name>
+</upazilas>
+<upazilas>
+	<id>197</id>
+	<district_id>8</district_id>
+	<name>Shibalaya Upazila</name>
+	<bn_name>শিবালয়</bn_name>
+</upazilas>
+<upazilas>
+	<id>198</id>
+	<district_id>8</district_id>
+	<name>Saturia Upazila</name>
+	<bn_name>সাঠুরিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>199</id>
+	<district_id>8</district_id>
+	<name>Harirampur Upazila</name>
+	<bn_name>হরিরামপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>200</id>
+	<district_id>8</district_id>
+	<name>Ghior Upazila</name>
+	<bn_name>ঘিওর</bn_name>
+</upazilas>
+<upazilas>
+	<id>201</id>
+	<district_id>8</district_id>
+	<name>Daulatpur Upazila</name>
+	<bn_name>দৌলতপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>202</id>
+	<district_id>9</district_id>
+	<name>Lohajang Upazila</name>
+	<bn_name>লোহাজং</bn_name>
+</upazilas>
+<upazilas>
+	<id>203</id>
+	<district_id>9</district_id>
+	<name>Sreenagar Upazila</name>
+	<bn_name>শ্রীনগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>204</id>
+	<district_id>9</district_id>
+	<name>Munshiganj Sadar Upazila</name>
+	<bn_name>মুন্সিগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>205</id>
+	<district_id>9</district_id>
+	<name>Sirajdikhan Upazila</name>
+	<bn_name>সিরাজদিখান</bn_name>
+</upazilas>
+<upazilas>
+	<id>206</id>
+	<district_id>9</district_id>
+	<name>Tongibari Upazila</name>
+	<bn_name>টঙ্গিবাড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>207</id>
+	<district_id>9</district_id>
+	<name>Gazaria Upazila</name>
+	<bn_name>গজারিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>208</id>
+	<district_id>10</district_id>
+	<name>Bhaluka</name>
+	<bn_name>ভালুকা</bn_name>
+</upazilas>
+<upazilas>
+	<id>209</id>
+	<district_id>10</district_id>
+	<name>Trishal</name>
+	<bn_name>ত্রিশাল</bn_name>
+</upazilas>
+<upazilas>
+	<id>210</id>
+	<district_id>10</district_id>
+	<name>Haluaghat</name>
+	<bn_name>হালুয়াঘাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>211</id>
+	<district_id>10</district_id>
+	<name>Muktagachha</name>
+	<bn_name>মুক্তাগাছা</bn_name>
+</upazilas>
+<upazilas>
+	<id>212</id>
+	<district_id>10</district_id>
+	<name>Dhobaura</name>
+	<bn_name>ধবারুয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>213</id>
+	<district_id>10</district_id>
+	<name>Fulbaria</name>
+	<bn_name>ফুলবাড়িয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>214</id>
+	<district_id>10</district_id>
+	<name>Gaffargaon</name>
+	<bn_name>গফরগাঁও</bn_name>
+</upazilas>
+<upazilas>
+	<id>215</id>
+	<district_id>10</district_id>
+	<name>Gauripur</name>
+	<bn_name>গৌরিপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>216</id>
+	<district_id>10</district_id>
+	<name>Ishwarganj</name>
+	<bn_name>ঈশ্বরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>217</id>
+	<district_id>10</district_id>
+	<name>Mymensingh Sadar</name>
+	<bn_name>ময়মনসিং সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>218</id>
+	<district_id>10</district_id>
+	<name>Nandail</name>
+	<bn_name>নন্দাইল</bn_name>
+</upazilas>
+<upazilas>
+	<id>219</id>
+	<district_id>10</district_id>
+	<name>Phulpur</name>
+	<bn_name>ফুলপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>220</id>
+	<district_id>11</district_id>
+	<name>Araihazar Upazila</name>
+	<bn_name>আড়াইহাজার</bn_name>
+</upazilas>
+<upazilas>
+	<id>221</id>
+	<district_id>11</district_id>
+	<name>Sonargaon Upazila</name>
+	<bn_name>সোনারগাঁও</bn_name>
+</upazilas>
+<upazilas>
+	<id>222</id>
+	<district_id>11</district_id>
+	<name>Bandar</name>
+	<bn_name>বান্দার</bn_name>
+</upazilas>
+<upazilas>
+	<id>223</id>
+	<district_id>11</district_id>
+	<name>Naryanganj Sadar Upazila</name>
+	<bn_name>নারায়ানগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>224</id>
+	<district_id>11</district_id>
+	<name>Rupganj Upazila</name>
+	<bn_name>রূপগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>225</id>
+	<district_id>11</district_id>
+	<name>Siddirgonj Upazila</name>
+	<bn_name>সিদ্ধিরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>226</id>
+	<district_id>12</district_id>
+	<name>Belabo Upazila</name>
+	<bn_name>বেলাবো</bn_name>
+</upazilas>
+<upazilas>
+	<id>227</id>
+	<district_id>12</district_id>
+	<name>Monohardi Upazila</name>
+	<bn_name>মনোহরদি</bn_name>
+</upazilas>
+<upazilas>
+	<id>228</id>
+	<district_id>12</district_id>
+	<name>Narsingdi Sadar Upazila</name>
+	<bn_name>নরসিংদী সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>229</id>
+	<district_id>12</district_id>
+	<name>Palash Upazila</name>
+	<bn_name>পলাশ</bn_name>
+</upazilas>
+<upazilas>
+	<id>230</id>
+	<district_id>12</district_id>
+	<name>Raipura Upazila, Narsingdi</name>
+	<bn_name>রায়পুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>231</id>
+	<district_id>12</district_id>
+	<name>Shibpur Upazila</name>
+	<bn_name>শিবপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>232</id>
+	<district_id>13</district_id>
+	<name>Kendua Upazilla</name>
+	<bn_name>কেন্দুয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>233</id>
+	<district_id>13</district_id>
+	<name>Atpara Upazilla</name>
+	<bn_name>আটপাড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>234</id>
+	<district_id>13</district_id>
+	<name>Barhatta Upazilla</name>
+	<bn_name>বরহাট্টা</bn_name>
+</upazilas>
+<upazilas>
+	<id>235</id>
+	<district_id>13</district_id>
+	<name>Durgapur Upazilla</name>
+	<bn_name>দুর্গাপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>236</id>
+	<district_id>13</district_id>
+	<name>Kalmakanda Upazilla</name>
+	<bn_name>কলমাকান্দা</bn_name>
+</upazilas>
+<upazilas>
+	<id>237</id>
+	<district_id>13</district_id>
+	<name>Madan Upazilla</name>
+	<bn_name>মদন</bn_name>
+</upazilas>
+<upazilas>
+	<id>238</id>
+	<district_id>13</district_id>
+	<name>Mohanganj Upazilla</name>
+	<bn_name>মোহনগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>239</id>
+	<district_id>13</district_id>
+	<name>Netrakona-S Upazilla</name>
+	<bn_name>নেত্রকোনা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>240</id>
+	<district_id>13</district_id>
+	<name>Purbadhala Upazilla</name>
+	<bn_name>পূর্বধলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>241</id>
+	<district_id>13</district_id>
+	<name>Khaliajuri Upazilla</name>
+	<bn_name>খালিয়াজুরি</bn_name>
+</upazilas>
+<upazilas>
+	<id>242</id>
+	<district_id>14</district_id>
+	<name>Baliakandi Upazila</name>
+	<bn_name>বালিয়াকান্দি</bn_name>
+</upazilas>
+<upazilas>
+	<id>243</id>
+	<district_id>14</district_id>
+	<name>Goalandaghat Upazila</name>
+	<bn_name>গোয়ালন্দ ঘাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>244</id>
+	<district_id>14</district_id>
+	<name>Pangsha Upazila</name>
+	<bn_name>পাংশা</bn_name>
+</upazilas>
+<upazilas>
+	<id>245</id>
+	<district_id>14</district_id>
+	<name>Kalukhali Upazila</name>
+	<bn_name>কালুখালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>246</id>
+	<district_id>14</district_id>
+	<name>Rajbari Sadar Upazila</name>
+	<bn_name>রাজবাড়ি সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>247</id>
+	<district_id>15</district_id>
+	<name>Shariatpur Sadar -Palong</name>
+	<bn_name>শরীয়তপুর সদর </bn_name>
+</upazilas>
+<upazilas>
+	<id>248</id>
+	<district_id>15</district_id>
+	<name>Damudya Upazila</name>
+	<bn_name>দামুদিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>249</id>
+	<district_id>15</district_id>
+	<name>Naria Upazila</name>
+	<bn_name>নড়িয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>250</id>
+	<district_id>15</district_id>
+	<name>Jajira Upazila</name>
+	<bn_name>জাজিরা</bn_name>
+</upazilas>
+<upazilas>
+	<id>251</id>
+	<district_id>15</district_id>
+	<name>Bhedarganj Upazila</name>
+	<bn_name>ভেদারগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>252</id>
+	<district_id>15</district_id>
+	<name>Gosairhat Upazila</name>
+	<bn_name>গোসাইর হাট </bn_name>
+</upazilas>
+<upazilas>
+	<id>253</id>
+	<district_id>16</district_id>
+	<name>Jhenaigati Upazila</name>
+	<bn_name>ঝিনাইগাতি</bn_name>
+</upazilas>
+<upazilas>
+	<id>254</id>
+	<district_id>16</district_id>
+	<name>Nakla Upazila</name>
+	<bn_name>নাকলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>255</id>
+	<district_id>16</district_id>
+	<name>Nalitabari Upazila</name>
+	<bn_name>নালিতাবাড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>256</id>
+	<district_id>16</district_id>
+	<name>Sherpur Sadar Upazila</name>
+	<bn_name>শেরপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>257</id>
+	<district_id>16</district_id>
+	<name>Sreebardi Upazila</name>
+	<bn_name>শ্রীবরদি</bn_name>
+</upazilas>
+<upazilas>
+	<id>258</id>
+	<district_id>17</district_id>
+	<name>Tangail Sadar Upazila</name>
+	<bn_name>টাঙ্গাইল সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>259</id>
+	<district_id>17</district_id>
+	<name>Sakhipur Upazila</name>
+	<bn_name>সখিপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>260</id>
+	<district_id>17</district_id>
+	<name>Basail Upazila</name>
+	<bn_name>বসাইল</bn_name>
+</upazilas>
+<upazilas>
+	<id>261</id>
+	<district_id>17</district_id>
+	<name>Madhupur Upazila</name>
+	<bn_name>মধুপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>262</id>
+	<district_id>17</district_id>
+	<name>Ghatail Upazila</name>
+	<bn_name>ঘাটাইল</bn_name>
+</upazilas>
+<upazilas>
+	<id>263</id>
+	<district_id>17</district_id>
+	<name>Kalihati Upazila</name>
+	<bn_name>কালিহাতি</bn_name>
+</upazilas>
+<upazilas>
+	<id>264</id>
+	<district_id>17</district_id>
+	<name>Nagarpur Upazila</name>
+	<bn_name>নগরপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>265</id>
+	<district_id>17</district_id>
+	<name>Mirzapur Upazila</name>
+	<bn_name>মির্জাপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>266</id>
+	<district_id>17</district_id>
+	<name>Gopalpur Upazila</name>
+	<bn_name>গোপালপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>267</id>
+	<district_id>17</district_id>
+	<name>Delduar Upazila</name>
+	<bn_name>দেলদুয়ার</bn_name>
+</upazilas>
+<upazilas>
+	<id>268</id>
+	<district_id>17</district_id>
+	<name>Bhuapur Upazila</name>
+	<bn_name>ভুয়াপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>269</id>
+	<district_id>17</district_id>
+	<name>Dhanbari Upazila</name>
+	<bn_name>ধানবাড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>270</id>
+	<district_id>55</district_id>
+	<name>Bagerhat Sadar Upazila</name>
+	<bn_name>বাগেরহাট সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>271</id>
+	<district_id>55</district_id>
+	<name>Chitalmari Upazila</name>
+	<bn_name>চিতলমাড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>272</id>
+	<district_id>55</district_id>
+	<name>Fakirhat Upazila</name>
+	<bn_name>ফকিরহাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>273</id>
+	<district_id>55</district_id>
+	<name>Kachua Upazila</name>
+	<bn_name>কচুয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>274</id>
+	<district_id>55</district_id>
+	<name>Mollahat Upazila</name>
+	<bn_name>মোল্লাহাট </bn_name>
+</upazilas>
+<upazilas>
+	<id>275</id>
+	<district_id>55</district_id>
+	<name>Mongla Upazila</name>
+	<bn_name>মংলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>276</id>
+	<district_id>55</district_id>
+	<name>Morrelganj Upazila</name>
+	<bn_name>মরেলগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>277</id>
+	<district_id>55</district_id>
+	<name>Rampal Upazila</name>
+	<bn_name>রামপাল</bn_name>
+</upazilas>
+<upazilas>
+	<id>278</id>
+	<district_id>55</district_id>
+	<name>Sarankhola Upazila</name>
+	<bn_name>স্মরণখোলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>279</id>
+	<district_id>56</district_id>
+	<name>Damurhuda Upazila</name>
+	<bn_name>দামুরহুদা</bn_name>
+</upazilas>
+<upazilas>
+	<id>280</id>
+	<district_id>56</district_id>
+	<name>Chuadanga-S Upazila</name>
+	<bn_name>চুয়াডাঙ্গা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>281</id>
+	<district_id>56</district_id>
+	<name>Jibannagar Upazila</name>
+	<bn_name>জীবন নগর </bn_name>
+</upazilas>
+<upazilas>
+	<id>282</id>
+	<district_id>56</district_id>
+	<name>Alamdanga Upazila</name>
+	<bn_name>আলমডাঙ্গা</bn_name>
+</upazilas>
+<upazilas>
+	<id>283</id>
+	<district_id>57</district_id>
+	<name>Abhaynagar Upazila</name>
+	<bn_name>অভয়নগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>284</id>
+	<district_id>57</district_id>
+	<name>Keshabpur Upazila</name>
+	<bn_name>কেশবপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>285</id>
+	<district_id>57</district_id>
+	<name>Bagherpara Upazila</name>
+	<bn_name>বাঘের পাড়া </bn_name>
+</upazilas>
+<upazilas>
+	<id>286</id>
+	<district_id>57</district_id>
+	<name>Jessore Sadar Upazila</name>
+	<bn_name>যশোর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>287</id>
+	<district_id>57</district_id>
+	<name>Chaugachha Upazila</name>
+	<bn_name>চৌগাছা</bn_name>
+</upazilas>
+<upazilas>
+	<id>288</id>
+	<district_id>57</district_id>
+	<name>Manirampur Upazila</name>
+	<bn_name>মনিরামপুর </bn_name>
+</upazilas>
+<upazilas>
+	<id>289</id>
+	<district_id>57</district_id>
+	<name>Jhikargachha Upazila</name>
+	<bn_name>ঝিকরগাছা</bn_name>
+</upazilas>
+<upazilas>
+	<id>290</id>
+	<district_id>57</district_id>
+	<name>Sharsha Upazila</name>
+	<bn_name>সারশা</bn_name>
+</upazilas>
+<upazilas>
+	<id>291</id>
+	<district_id>58</district_id>
+	<name>Jhenaidah Sadar Upazila</name>
+	<bn_name>ঝিনাইদহ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>292</id>
+	<district_id>58</district_id>
+	<name>Maheshpur Upazila</name>
+	<bn_name>মহেশপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>293</id>
+	<district_id>58</district_id>
+	<name>Kaliganj Upazila</name>
+	<bn_name>কালীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>294</id>
+	<district_id>58</district_id>
+	<name>Kotchandpur Upazila</name>
+	<bn_name>কোট চাঁদপুর </bn_name>
+</upazilas>
+<upazilas>
+	<id>295</id>
+	<district_id>58</district_id>
+	<name>Shailkupa Upazila</name>
+	<bn_name>শৈলকুপা</bn_name>
+</upazilas>
+<upazilas>
+	<id>296</id>
+	<district_id>58</district_id>
+	<name>Harinakunda Upazila</name>
+	<bn_name>হাড়িনাকুন্দা</bn_name>
+</upazilas>
+<upazilas>
+	<id>297</id>
+	<district_id>59</district_id>
+	<name>Terokhada Upazila</name>
+	<bn_name>তেরোখাদা</bn_name>
+</upazilas>
+<upazilas>
+	<id>298</id>
+	<district_id>59</district_id>
+	<name>Batiaghata Upazila</name>
+	<bn_name>বাটিয়াঘাটা </bn_name>
+</upazilas>
+<upazilas>
+	<id>299</id>
+	<district_id>59</district_id>
+	<name>Dacope Upazila</name>
+	<bn_name>ডাকপে</bn_name>
+</upazilas>
+<upazilas>
+	<id>300</id>
+	<district_id>59</district_id>
+	<name>Dumuria Upazila</name>
+	<bn_name>ডুমুরিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>301</id>
+	<district_id>59</district_id>
+	<name>Dighalia Upazila</name>
+	<bn_name>দিঘলিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>302</id>
+	<district_id>59</district_id>
+	<name>Koyra Upazila</name>
+	<bn_name>কয়ড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>303</id>
+	<district_id>59</district_id>
+	<name>Paikgachha Upazila</name>
+	<bn_name>পাইকগাছা</bn_name>
+</upazilas>
+<upazilas>
+	<id>304</id>
+	<district_id>59</district_id>
+	<name>Phultala Upazila</name>
+	<bn_name>ফুলতলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>305</id>
+	<district_id>59</district_id>
+	<name>Rupsa Upazila</name>
+	<bn_name>রূপসা</bn_name>
+</upazilas>
+<upazilas>
+	<id>306</id>
+	<district_id>60</district_id>
+	<name>Kushtia Sadar</name>
+	<bn_name>কুষ্টিয়া সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>307</id>
+	<district_id>60</district_id>
+	<name>Kumarkhali</name>
+	<bn_name>কুমারখালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>308</id>
+	<district_id>60</district_id>
+	<name>Daulatpur</name>
+	<bn_name>দৌলতপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>309</id>
+	<district_id>60</district_id>
+	<name>Mirpur</name>
+	<bn_name>মিরপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>310</id>
+	<district_id>60</district_id>
+	<name>Bheramara</name>
+	<bn_name>ভেরামারা</bn_name>
+</upazilas>
+<upazilas>
+	<id>311</id>
+	<district_id>60</district_id>
+	<name>Khoksa</name>
+	<bn_name>খোকসা</bn_name>
+</upazilas>
+<upazilas>
+	<id>312</id>
+	<district_id>61</district_id>
+	<name>Magura Sadar Upazila</name>
+	<bn_name>মাগুরা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>313</id>
+	<district_id>61</district_id>
+	<name>Mohammadpur Upazila</name>
+	<bn_name>মোহাম্মাদপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>314</id>
+	<district_id>61</district_id>
+	<name>Shalikha Upazila</name>
+	<bn_name>শালিখা</bn_name>
+</upazilas>
+<upazilas>
+	<id>315</id>
+	<district_id>61</district_id>
+	<name>Sreepur Upazila</name>
+	<bn_name>শ্রীপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>316</id>
+	<district_id>62</district_id>
+	<name>angni Upazila</name>
+	<bn_name>আংনি</bn_name>
+</upazilas>
+<upazilas>
+	<id>317</id>
+	<district_id>62</district_id>
+	<name>Mujib Nagar Upazila</name>
+	<bn_name>মুজিব নগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>318</id>
+	<district_id>62</district_id>
+	<name>Meherpur-S Upazila</name>
+	<bn_name>মেহেরপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>319</id>
+	<district_id>63</district_id>
+	<name>Narail-S Upazilla</name>
+	<bn_name>নড়াইল সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>320</id>
+	<district_id>63</district_id>
+	<name>Lohagara Upazilla</name>
+	<bn_name>লোহাগাড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>321</id>
+	<district_id>63</district_id>
+	<name>Kalia Upazilla</name>
+	<bn_name>কালিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>322</id>
+	<district_id>64</district_id>
+	<name>Satkhira Sadar Upazila</name>
+	<bn_name>সাতক্ষীরা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>323</id>
+	<district_id>64</district_id>
+	<name>Assasuni Upazila</name>
+	<bn_name>আসসাশুনি </bn_name>
+</upazilas>
+<upazilas>
+	<id>324</id>
+	<district_id>64</district_id>
+	<name>Debhata Upazila</name>
+	<bn_name>দেভাটা</bn_name>
+</upazilas>
+<upazilas>
+	<id>325</id>
+	<district_id>64</district_id>
+	<name>Tala Upazila</name>
+	<bn_name>তালা</bn_name>
+</upazilas>
+<upazilas>
+	<id>326</id>
+	<district_id>64</district_id>
+	<name>Kalaroa Upazila</name>
+	<bn_name>কলরোয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>327</id>
+	<district_id>64</district_id>
+	<name>Kaliganj Upazila</name>
+	<bn_name>কালীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>328</id>
+	<district_id>64</district_id>
+	<name>Shyamnagar Upazila</name>
+	<bn_name>শ্যামনগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>329</id>
+	<district_id>18</district_id>
+	<name>Adamdighi</name>
+	<bn_name>আদমদিঘী</bn_name>
+</upazilas>
+<upazilas>
+	<id>330</id>
+	<district_id>18</district_id>
+	<name>Bogra Sadar</name>
+	<bn_name>বগুড়া সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>331</id>
+	<district_id>18</district_id>
+	<name>Sherpur</name>
+	<bn_name>শেরপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>332</id>
+	<district_id>18</district_id>
+	<name>Dhunat</name>
+	<bn_name>ধুনট</bn_name>
+</upazilas>
+<upazilas>
+	<id>333</id>
+	<district_id>18</district_id>
+	<name>Dhupchanchia</name>
+	<bn_name>দুপচাচিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>334</id>
+	<district_id>18</district_id>
+	<name>Gabtali</name>
+	<bn_name>গাবতলি</bn_name>
+</upazilas>
+<upazilas>
+	<id>335</id>
+	<district_id>18</district_id>
+	<name>Kahaloo</name>
+	<bn_name>কাহালু</bn_name>
+</upazilas>
+<upazilas>
+	<id>336</id>
+	<district_id>18</district_id>
+	<name>Nandigram</name>
+	<bn_name>নন্দিগ্রাম</bn_name>
+</upazilas>
+<upazilas>
+	<id>337</id>
+	<district_id>18</district_id>
+	<name>Sahajanpur</name>
+	<bn_name>শাহজাহানপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>338</id>
+	<district_id>18</district_id>
+	<name>Sariakandi</name>
+	<bn_name>সারিয়াকান্দি</bn_name>
+</upazilas>
+<upazilas>
+	<id>339</id>
+	<district_id>18</district_id>
+	<name>Shibganj</name>
+	<bn_name>শিবগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>340</id>
+	<district_id>18</district_id>
+	<name>Sonatala</name>
+	<bn_name>সোনাতলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>341</id>
+	<district_id>19</district_id>
+	<name>Joypurhat S</name>
+	<bn_name>জয়পুরহাট সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>342</id>
+	<district_id>19</district_id>
+	<name>Akkelpur</name>
+	<bn_name>আক্কেলপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>343</id>
+	<district_id>19</district_id>
+	<name>Kalai</name>
+	<bn_name>কালাই</bn_name>
+</upazilas>
+<upazilas>
+	<id>344</id>
+	<district_id>19</district_id>
+	<name>Khetlal</name>
+	<bn_name>খেতলাল</bn_name>
+</upazilas>
+<upazilas>
+	<id>345</id>
+	<district_id>19</district_id>
+	<name>Panchbibi</name>
+	<bn_name>পাঁচবিবি</bn_name>
+</upazilas>
+<upazilas>
+	<id>346</id>
+	<district_id>20</district_id>
+	<name>Naogaon Sadar Upazila</name>
+	<bn_name>নওগাঁ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>347</id>
+	<district_id>20</district_id>
+	<name>Mohadevpur Upazila</name>
+	<bn_name>মহাদেবপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>348</id>
+	<district_id>20</district_id>
+	<name>Manda Upazila</name>
+	<bn_name>মান্দা</bn_name>
+</upazilas>
+<upazilas>
+	<id>349</id>
+	<district_id>20</district_id>
+	<name>Niamatpur Upazila</name>
+	<bn_name>নিয়ামতপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>350</id>
+	<district_id>20</district_id>
+	<name>Atrai Upazila</name>
+	<bn_name>আত্রাই</bn_name>
+</upazilas>
+<upazilas>
+	<id>351</id>
+	<district_id>20</district_id>
+	<name>Raninagar Upazila</name>
+	<bn_name>রাণীনগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>352</id>
+	<district_id>20</district_id>
+	<name>Patnitala Upazila</name>
+	<bn_name>পত্নীতলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>353</id>
+	<district_id>20</district_id>
+	<name>Dhamoirhat Upazila</name>
+	<bn_name>ধামইরহাট </bn_name>
+</upazilas>
+<upazilas>
+	<id>354</id>
+	<district_id>20</district_id>
+	<name>Sapahar Upazila</name>
+	<bn_name>সাপাহার</bn_name>
+</upazilas>
+<upazilas>
+	<id>355</id>
+	<district_id>20</district_id>
+	<name>Porsha Upazila</name>
+	<bn_name>পোরশা</bn_name>
+</upazilas>
+<upazilas>
+	<id>356</id>
+	<district_id>20</district_id>
+	<name>Badalgachhi Upazila</name>
+	<bn_name>বদলগাছি</bn_name>
+</upazilas>
+<upazilas>
+	<id>357</id>
+	<district_id>21</district_id>
+	<name>Natore Sadar Upazila</name>
+	<bn_name>নাটোর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>358</id>
+	<district_id>21</district_id>
+	<name>Baraigram Upazila</name>
+	<bn_name>বড়াইগ্রাম</bn_name>
+</upazilas>
+<upazilas>
+	<id>359</id>
+	<district_id>21</district_id>
+	<name>Bagatipara Upazila</name>
+	<bn_name>বাগাতিপাড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>360</id>
+	<district_id>21</district_id>
+	<name>Lalpur Upazila</name>
+	<bn_name>লালপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>361</id>
+	<district_id>21</district_id>
+	<name>Natore Sadar Upazila</name>
+	<bn_name>নাটোর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>362</id>
+	<district_id>21</district_id>
+	<name>Baraigram Upazila</name>
+	<bn_name>বড়াই গ্রাম</bn_name>
+</upazilas>
+<upazilas>
+	<id>363</id>
+	<district_id>22</district_id>
+	<name>Bholahat Upazila</name>
+	<bn_name>ভোলাহাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>364</id>
+	<district_id>22</district_id>
+	<name>Gomastapur Upazila</name>
+	<bn_name>গোমস্তাপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>365</id>
+	<district_id>22</district_id>
+	<name>Nachole Upazila</name>
+	<bn_name>নাচোল</bn_name>
+</upazilas>
+<upazilas>
+	<id>366</id>
+	<district_id>22</district_id>
+	<name>Nawabganj Sadar Upazila</name>
+	<bn_name>নবাবগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>367</id>
+	<district_id>22</district_id>
+	<name>Shibganj Upazila</name>
+	<bn_name>শিবগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>368</id>
+	<district_id>23</district_id>
+	<name>Atgharia Upazila</name>
+	<bn_name>আটঘরিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>369</id>
+	<district_id>23</district_id>
+	<name>Bera Upazila</name>
+	<bn_name>বেড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>370</id>
+	<district_id>23</district_id>
+	<name>Bhangura Upazila</name>
+	<bn_name>ভাঙ্গুরা</bn_name>
+</upazilas>
+<upazilas>
+	<id>371</id>
+	<district_id>23</district_id>
+	<name>Chatmohar Upazila</name>
+	<bn_name>চাটমোহর</bn_name>
+</upazilas>
+<upazilas>
+	<id>372</id>
+	<district_id>23</district_id>
+	<name>Faridpur Upazila</name>
+	<bn_name>ফরিদপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>373</id>
+	<district_id>23</district_id>
+	<name>Ishwardi Upazila</name>
+	<bn_name>ঈশ্বরদী</bn_name>
+</upazilas>
+<upazilas>
+	<id>374</id>
+	<district_id>23</district_id>
+	<name>Pabna Sadar Upazila</name>
+	<bn_name>পাবনা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>375</id>
+	<district_id>23</district_id>
+	<name>Santhia Upazila</name>
+	<bn_name>সাথিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>376</id>
+	<district_id>23</district_id>
+	<name>Sujanagar Upazila</name>
+	<bn_name>সুজানগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>377</id>
+	<district_id>24</district_id>
+	<name>Bagha</name>
+	<bn_name>বাঘা</bn_name>
+</upazilas>
+<upazilas>
+	<id>378</id>
+	<district_id>24</district_id>
+	<name>Bagmara</name>
+	<bn_name>বাগমারা</bn_name>
+</upazilas>
+<upazilas>
+	<id>379</id>
+	<district_id>24</district_id>
+	<name>Charghat</name>
+	<bn_name>চারঘাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>380</id>
+	<district_id>24</district_id>
+	<name>Durgapur</name>
+	<bn_name>দুর্গাপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>381</id>
+	<district_id>24</district_id>
+	<name>Godagari</name>
+	<bn_name>গোদাগারি</bn_name>
+</upazilas>
+<upazilas>
+	<id>382</id>
+	<district_id>24</district_id>
+	<name>Mohanpur</name>
+	<bn_name>মোহনপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>383</id>
+	<district_id>24</district_id>
+	<name>Paba</name>
+	<bn_name>পবা</bn_name>
+</upazilas>
+<upazilas>
+	<id>384</id>
+	<district_id>24</district_id>
+	<name>Puthia</name>
+	<bn_name>পুঠিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>385</id>
+	<district_id>24</district_id>
+	<name>Tanore</name>
+	<bn_name>তানোর</bn_name>
+</upazilas>
+<upazilas>
+	<id>386</id>
+	<district_id>25</district_id>
+	<name>Sirajganj Sadar Upazila</name>
+	<bn_name>সিরাজগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>387</id>
+	<district_id>25</district_id>
+	<name>Belkuchi Upazila</name>
+	<bn_name>বেলকুচি</bn_name>
+</upazilas>
+<upazilas>
+	<id>388</id>
+	<district_id>25</district_id>
+	<name>Chauhali Upazila</name>
+	<bn_name>চৌহালি</bn_name>
+</upazilas>
+<upazilas>
+	<id>389</id>
+	<district_id>25</district_id>
+	<name>Kamarkhanda Upazila</name>
+	<bn_name>কামারখান্দা</bn_name>
+</upazilas>
+<upazilas>
+	<id>390</id>
+	<district_id>25</district_id>
+	<name>Kazipur Upazila</name>
+	<bn_name>কাজীপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>391</id>
+	<district_id>25</district_id>
+	<name>Raiganj Upazila</name>
+	<bn_name>রায়গঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>392</id>
+	<district_id>25</district_id>
+	<name>Shahjadpur Upazila</name>
+	<bn_name>শাহজাদপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>393</id>
+	<district_id>25</district_id>
+	<name>Tarash Upazila</name>
+	<bn_name>তারাশ</bn_name>
+</upazilas>
+<upazilas>
+	<id>394</id>
+	<district_id>25</district_id>
+	<name>Ullahpara Upazila</name>
+	<bn_name>উল্লাপাড়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>395</id>
+	<district_id>26</district_id>
+	<name>Birampur Upazila</name>
+	<bn_name>বিরামপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>396</id>
+	<district_id>26</district_id>
+	<name>Birganj</name>
+	<bn_name>বীরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>397</id>
+	<district_id>26</district_id>
+	<name>Biral Upazila</name>
+	<bn_name>বিড়াল</bn_name>
+</upazilas>
+<upazilas>
+	<id>398</id>
+	<district_id>26</district_id>
+	<name>Bochaganj Upazila</name>
+	<bn_name>বোচাগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>399</id>
+	<district_id>26</district_id>
+	<name>Chirirbandar Upazila</name>
+	<bn_name>চিরিরবন্দর</bn_name>
+</upazilas>
+<upazilas>
+	<id>400</id>
+	<district_id>26</district_id>
+	<name>Phulbari Upazila</name>
+	<bn_name>ফুলবাড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>401</id>
+	<district_id>26</district_id>
+	<name>Ghoraghat Upazila</name>
+	<bn_name>ঘোড়াঘাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>402</id>
+	<district_id>26</district_id>
+	<name>Hakimpur Upazila</name>
+	<bn_name>হাকিমপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>403</id>
+	<district_id>26</district_id>
+	<name>Kaharole Upazila</name>
+	<bn_name>কাহারোল</bn_name>
+</upazilas>
+<upazilas>
+	<id>404</id>
+	<district_id>26</district_id>
+	<name>Khansama Upazila</name>
+	<bn_name>খানসামা</bn_name>
+</upazilas>
+<upazilas>
+	<id>405</id>
+	<district_id>26</district_id>
+	<name>Dinajpur Sadar Upazila</name>
+	<bn_name>দিনাজপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>406</id>
+	<district_id>26</district_id>
+	<name>Nawabganj</name>
+	<bn_name>নবাবগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>407</id>
+	<district_id>26</district_id>
+	<name>Parbatipur Upazila</name>
+	<bn_name>পার্বতীপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>408</id>
+	<district_id>27</district_id>
+	<name>Fulchhari</name>
+	<bn_name>ফুলছড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>409</id>
+	<district_id>27</district_id>
+	<name>Gaibandha sadar</name>
+	<bn_name>গাইবান্ধা সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>410</id>
+	<district_id>27</district_id>
+	<name>Gobindaganj</name>
+	<bn_name>গোবিন্দগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>411</id>
+	<district_id>27</district_id>
+	<name>Palashbari</name>
+	<bn_name>পলাশবাড়ী</bn_name>
+</upazilas>
+<upazilas>
+	<id>412</id>
+	<district_id>27</district_id>
+	<name>Sadullapur</name>
+	<bn_name>সাদুল্যাপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>413</id>
+	<district_id>27</district_id>
+	<name>Saghata</name>
+	<bn_name>সাঘাটা</bn_name>
+</upazilas>
+<upazilas>
+	<id>414</id>
+	<district_id>27</district_id>
+	<name>Sundarganj</name>
+	<bn_name>সুন্দরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>415</id>
+	<district_id>28</district_id>
+	<name>Kurigram Sadar</name>
+	<bn_name>কুড়িগ্রাম সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>416</id>
+	<district_id>28</district_id>
+	<name>Nageshwari</name>
+	<bn_name>নাগেশ্বরী</bn_name>
+</upazilas>
+<upazilas>
+	<id>417</id>
+	<district_id>28</district_id>
+	<name>Bhurungamari</name>
+	<bn_name>ভুরুঙ্গামারি</bn_name>
+</upazilas>
+<upazilas>
+	<id>418</id>
+	<district_id>28</district_id>
+	<name>Phulbari</name>
+	<bn_name>ফুলবাড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>419</id>
+	<district_id>28</district_id>
+	<name>Rajarhat</name>
+	<bn_name>রাজারহাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>420</id>
+	<district_id>28</district_id>
+	<name>Ulipur</name>
+	<bn_name>উলিপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>421</id>
+	<district_id>28</district_id>
+	<name>Chilmari</name>
+	<bn_name>চিলমারি</bn_name>
+</upazilas>
+<upazilas>
+	<id>422</id>
+	<district_id>28</district_id>
+	<name>Rowmari</name>
+	<bn_name>রউমারি</bn_name>
+</upazilas>
+<upazilas>
+	<id>423</id>
+	<district_id>28</district_id>
+	<name>Char Rajibpur</name>
+	<bn_name>চর রাজিবপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>424</id>
+	<district_id>29</district_id>
+	<name>Lalmanirhat Sadar</name>
+	<bn_name>লালমনিরহাট সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>425</id>
+	<district_id>29</district_id>
+	<name>Aditmari</name>
+	<bn_name>আদিতমারি</bn_name>
+</upazilas>
+<upazilas>
+	<id>426</id>
+	<district_id>29</district_id>
+	<name>Kaliganj</name>
+	<bn_name>কালীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>427</id>
+	<district_id>29</district_id>
+	<name>Hatibandha</name>
+	<bn_name>হাতিবান্ধা</bn_name>
+</upazilas>
+<upazilas>
+	<id>428</id>
+	<district_id>29</district_id>
+	<name>Patgram</name>
+	<bn_name>পাটগ্রাম</bn_name>
+</upazilas>
+<upazilas>
+	<id>429</id>
+	<district_id>30</district_id>
+	<name>Nilphamari Sadar</name>
+	<bn_name>নীলফামারী সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>430</id>
+	<district_id>30</district_id>
+	<name>Saidpur</name>
+	<bn_name>সৈয়দপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>431</id>
+	<district_id>30</district_id>
+	<name>Jaldhaka</name>
+	<bn_name>জলঢাকা</bn_name>
+</upazilas>
+<upazilas>
+	<id>432</id>
+	<district_id>30</district_id>
+	<name>Kishoreganj</name>
+	<bn_name>কিশোরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>433</id>
+	<district_id>30</district_id>
+	<name>Domar</name>
+	<bn_name>ডোমার</bn_name>
+</upazilas>
+<upazilas>
+	<id>434</id>
+	<district_id>30</district_id>
+	<name>Dimla</name>
+	<bn_name>ডিমলা</bn_name>
+</upazilas>
+<upazilas>
+	<id>435</id>
+	<district_id>31</district_id>
+	<name>Panchagarh Sadar</name>
+	<bn_name>পঞ্চগড় সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>436</id>
+	<district_id>31</district_id>
+	<name>Debiganj</name>
+	<bn_name>দেবীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>437</id>
+	<district_id>31</district_id>
+	<name>Boda</name>
+	<bn_name>বোদা</bn_name>
+</upazilas>
+<upazilas>
+	<id>438</id>
+	<district_id>31</district_id>
+	<name>Atwari</name>
+	<bn_name>আটোয়ারি</bn_name>
+</upazilas>
+<upazilas>
+	<id>439</id>
+	<district_id>31</district_id>
+	<name>Tetulia</name>
+	<bn_name>তেতুলিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>440</id>
+	<district_id>32</district_id>
+	<name>Badarganj</name>
+	<bn_name>বদরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>441</id>
+	<district_id>32</district_id>
+	<name>Mithapukur</name>
+	<bn_name>মিঠাপুকুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>442</id>
+	<district_id>32</district_id>
+	<name>Gangachara</name>
+	<bn_name>গঙ্গাচরা</bn_name>
+</upazilas>
+<upazilas>
+	<id>443</id>
+	<district_id>32</district_id>
+	<name>Kaunia</name>
+	<bn_name>কাউনিয়া</bn_name>
+</upazilas>
+<upazilas>
+	<id>444</id>
+	<district_id>32</district_id>
+	<name>Rangpur Sadar</name>
+	<bn_name>রংপুর সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>445</id>
+	<district_id>32</district_id>
+	<name>Pirgachha</name>
+	<bn_name>পীরগাছা</bn_name>
+</upazilas>
+<upazilas>
+	<id>446</id>
+	<district_id>32</district_id>
+	<name>Pirganj</name>
+	<bn_name>পীরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>447</id>
+	<district_id>32</district_id>
+	<name>Taraganj</name>
+	<bn_name>তারাগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>448</id>
+	<district_id>33</district_id>
+	<name>Thakurgaon Sadar Upazila</name>
+	<bn_name>ঠাকুরগাঁও সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>449</id>
+	<district_id>33</district_id>
+	<name>Pirganj Upazila</name>
+	<bn_name>পীরগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>450</id>
+	<district_id>33</district_id>
+	<name>Baliadangi Upazila</name>
+	<bn_name>বালিয়াডাঙ্গি</bn_name>
+</upazilas>
+<upazilas>
+	<id>451</id>
+	<district_id>33</district_id>
+	<name>Haripur Upazila</name>
+	<bn_name>হরিপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>452</id>
+	<district_id>33</district_id>
+	<name>Ranisankail Upazila</name>
+	<bn_name>রাণীসংকইল</bn_name>
+</upazilas>
+<upazilas>
+	<id>453</id>
+	<district_id>51</district_id>
+	<name>Ajmiriganj</name>
+	<bn_name>আজমিরিগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>454</id>
+	<district_id>51</district_id>
+	<name>Baniachang</name>
+	<bn_name>বানিয়াচং</bn_name>
+</upazilas>
+<upazilas>
+	<id>455</id>
+	<district_id>51</district_id>
+	<name>Bahubal</name>
+	<bn_name>বাহুবল</bn_name>
+</upazilas>
+<upazilas>
+	<id>456</id>
+	<district_id>51</district_id>
+	<name>Chunarughat</name>
+	<bn_name>চুনারুঘাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>457</id>
+	<district_id>51</district_id>
+	<name>Habiganj Sadar</name>
+	<bn_name>হবিগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>458</id>
+	<district_id>51</district_id>
+	<name>Lakhai</name>
+	<bn_name>লাক্ষাই</bn_name>
+</upazilas>
+<upazilas>
+	<id>459</id>
+	<district_id>51</district_id>
+	<name>Madhabpur</name>
+	<bn_name>মাধবপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>460</id>
+	<district_id>51</district_id>
+	<name>Nabiganj</name>
+	<bn_name>নবীগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>461</id>
+	<district_id>51</district_id>
+	<name>Shaistagonj Upazila</name>
+	<bn_name>শায়েস্তাগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>462</id>
+	<district_id>52</district_id>
+	<name>Moulvibazar Sadar</name>
+	<bn_name>মৌলভীবাজার</bn_name>
+</upazilas>
+<upazilas>
+	<id>463</id>
+	<district_id>52</district_id>
+	<name>Barlekha</name>
+	<bn_name>বড়লেখা</bn_name>
+</upazilas>
+<upazilas>
+	<id>464</id>
+	<district_id>52</district_id>
+	<name>Juri</name>
+	<bn_name>জুড়ি</bn_name>
+</upazilas>
+<upazilas>
+	<id>465</id>
+	<district_id>52</district_id>
+	<name>Kamalganj</name>
+	<bn_name>কামালগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>466</id>
+	<district_id>52</district_id>
+	<name>Kulaura</name>
+	<bn_name>কুলাউরা</bn_name>
+</upazilas>
+<upazilas>
+	<id>467</id>
+	<district_id>52</district_id>
+	<name>Rajnagar</name>
+	<bn_name>রাজনগর</bn_name>
+</upazilas>
+<upazilas>
+	<id>468</id>
+	<district_id>52</district_id>
+	<name>Sreemangal</name>
+	<bn_name>শ্রীমঙ্গল</bn_name>
+</upazilas>
+<upazilas>
+	<id>469</id>
+	<district_id>53</district_id>
+	<name>Bishwamvarpur</name>
+	<bn_name>বিসশম্ভারপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>470</id>
+	<district_id>53</district_id>
+	<name>Chhatak</name>
+	<bn_name>ছাতক</bn_name>
+</upazilas>
+<upazilas>
+	<id>471</id>
+	<district_id>53</district_id>
+	<name>Derai</name>
+	<bn_name>দেড়াই</bn_name>
+</upazilas>
+<upazilas>
+	<id>472</id>
+	<district_id>53</district_id>
+	<name>Dharampasha</name>
+	<bn_name>ধরমপাশা</bn_name>
+</upazilas>
+<upazilas>
+	<id>473</id>
+	<district_id>53</district_id>
+	<name>Dowarabazar</name>
+	<bn_name>দোয়ারাবাজার</bn_name>
+</upazilas>
+<upazilas>
+	<id>474</id>
+	<district_id>53</district_id>
+	<name>Jagannathpur</name>
+	<bn_name>জগন্নাথপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>475</id>
+	<district_id>53</district_id>
+	<name>Jamalganj</name>
+	<bn_name>জামালগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>476</id>
+	<district_id>53</district_id>
+	<name>Sulla</name>
+	<bn_name>সুল্লা</bn_name>
+</upazilas>
+<upazilas>
+	<id>477</id>
+	<district_id>53</district_id>
+	<name>Sunamganj Sadar</name>
+	<bn_name>সুনামগঞ্জ সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>478</id>
+	<district_id>53</district_id>
+	<name>Shanthiganj</name>
+	<bn_name>শান্তিগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>479</id>
+	<district_id>53</district_id>
+	<name>Tahirpur</name>
+	<bn_name>তাহিরপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>480</id>
+	<district_id>54</district_id>
+	<name>Sylhet Sadar</name>
+	<bn_name>সিলেট সদর</bn_name>
+</upazilas>
+<upazilas>
+	<id>481</id>
+	<district_id>54</district_id>
+	<name>Beanibazar</name>
+	<bn_name>বেয়ানিবাজার</bn_name>
+</upazilas>
+<upazilas>
+	<id>482</id>
+	<district_id>54</district_id>
+	<name>Bishwanath</name>
+	<bn_name>বিশ্বনাথ</bn_name>
+</upazilas>
+<upazilas>
+	<id>483</id>
+	<district_id>54</district_id>
+	<name>Dakshin Surma Upazila</name>
+	<bn_name>দক্ষিণ সুরমা</bn_name>
+</upazilas>
+<upazilas>
+	<id>484</id>
+	<district_id>54</district_id>
+	<name>Balaganj</name>
+	<bn_name>বালাগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>485</id>
+	<district_id>54</district_id>
+	<name>Companiganj</name>
+	<bn_name>কোম্পানিগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>486</id>
+	<district_id>54</district_id>
+	<name>Fenchuganj</name>
+	<bn_name>ফেঞ্চুগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>487</id>
+	<district_id>54</district_id>
+	<name>Golapganj</name>
+	<bn_name>গোলাপগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>488</id>
+	<district_id>54</district_id>
+	<name>Gowainghat</name>
+	<bn_name>গোয়াইনঘাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>489</id>
+	<district_id>54</district_id>
+	<name>Jaintiapur</name>
+	<bn_name>জয়ন্তপুর</bn_name>
+</upazilas>
+<upazilas>
+	<id>490</id>
+	<district_id>54</district_id>
+	<name>Kanaighat</name>
+	<bn_name>কানাইঘাট</bn_name>
+</upazilas>
+<upazilas>
+	<id>491</id>
+	<district_id>54</district_id>
+	<name>Zakiganj</name>
+	<bn_name>জাকিগঞ্জ</bn_name>
+</upazilas>
+<upazilas>
+	<id>492</id>
+	<district_id>54</district_id>
+	<name>Nobigonj</name>
+	<bn_name>নবীগঞ্জ</bn_name>
+</upazilas>
+	</Home>

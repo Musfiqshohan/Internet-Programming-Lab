@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Home>
+<districts>
+	<id>1</id>
+	<division_id>3</division_id>
+	<name>Dhaka</name>
+	<bn_name>ঢাকা</bn_name>
+	<lat>23.7115253</lat>
+	<long>90.4111451</long>
+</districts>
+<districts>
+	<id>2</id>
+	<division_id>3</division_id>
+	<name>Faridpur</name>
+	<bn_name>ফরিদপুর</bn_name>
+	<lat>23.6070822</lat>
+	<long>89.8429406</long>
+</districts>
+<districts>
+	<id>3</id>
+	<division_id>3</division_id>
+	<name>Gazipur</name>
+	<bn_name>গাজীপুর</bn_name>
+	<lat>24.0022858</lat>
+	<long>90.4264283</long>
+</districts>
+<districts>
+	<id>4</id>
+	<division_id>3</division_id>
+	<name>Gopalganj</name>
+	<bn_name>গোপালগঞ্জ</bn_name>
+	<lat>23.0050857</lat>
+	<long>89.8266059</long>
+</districts>
+<districts>
+	<id>5</id>
+	<division_id>8</division_id>
+	<name>Jamalpur</name>
+	<bn_name>জামালপুর</bn_name>
+	<lat>24.937533</lat>
+	<long>89.937775</long>
+</districts>
+<districts>
+	<id>6</id>
+	<division_id>3</division_id>
+	<name>Kishoreganj</name>
+	<bn_name>কিশোরগঞ্জ</bn_name>
+	<lat>24.444937</lat>
+	<long>90.776575</long>
+</districts>
+<districts>
+	<id>7</id>
+	<division_id>3</division_id>
+	<name>Madaripur</name>
+	<bn_name>মাদারীপুর</bn_name>
+	<lat>23.164102</lat>
+	<long>90.1896805</long>
+</districts>
+<districts>
+	<id>8</id>
+	<division_id>3</division_id>
+	<name>Manikganj</name>
+	<bn_name>মানিকগঞ্জ</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>9</id>
+	<division_id>3</division_id>
+	<name>Munshiganj</name>
+	<bn_name>মুন্সিগঞ্জ</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>10</id>
+	<division_id>8</division_id>
+	<name>Mymensingh</name>
+	<bn_name>ময়মনসিংহ</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>11</id>
+	<division_id>3</division_id>
+	<name>Narayanganj</name>
+	<bn_name>নারায়াণগঞ্জ</bn_name>
+	<lat>23.63366</lat>
+	<long>90.496482</long>
+</districts>
+<districts>
+	<id>12</id>
+	<division_id>3</division_id>
+	<name>Narsingdi</name>
+	<bn_name>নরসিংদী</bn_name>
+	<lat>23.932233</lat>
+	<long>90.71541</long>
+</districts>
+<districts>
+	<id>13</id>
+	<division_id>8</division_id>
+	<name>Netrokona</name>
+	<bn_name>নেত্রকোণা</bn_name>
+	<lat>24.870955</lat>
+	<long>90.727887</long>
+</districts>
+<districts>
+	<id>14</id>
+	<division_id>3</division_id>
+	<name>Rajbari</name>
+	<bn_name>রাজবাড়ি</bn_name>
+	<lat>23.7574305</lat>
+	<long>89.6444665</long>
+</districts>
+<districts>
+	<id>15</id>
+	<division_id>3</division_id>
+	<name>Shariatpur</name>
+	<bn_name>শরীয়তপুর</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>16</id>
+	<division_id>8</division_id>
+	<name>Sherpur</name>
+	<bn_name>শেরপুর</bn_name>
+	<lat>25.0204933</lat>
+	<long>90.0152966</long>
+</districts>
+<districts>
+	<id>17</id>
+	<division_id>3</division_id>
+	<name>Tangail</name>
+	<bn_name>টাঙ্গাইল</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>18</id>
+	<division_id>5</division_id>
+	<name>Bogura</name>
+	<bn_name>বগুড়া</bn_name>
+	<lat>24.8465228</lat>
+	<long>89.377755</long>
+</districts>
+<districts>
+	<id>19</id>
+	<division_id>5</division_id>
+	<name>Joypurhat</name>
+	<bn_name>জয়পুরহাট</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>20</id>
+	<division_id>5</division_id>
+	<name>Naogaon</name>
+	<bn_name>নওগাঁ</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>21</id>
+	<division_id>5</division_id>
+	<name>Natore</name>
+	<bn_name>নাটোর</bn_name>
+	<lat>24.420556</lat>
+	<long>89.000282</long>
+</districts>
+<districts>
+	<id>22</id>
+	<division_id>5</division_id>
+	<name>Nawabganj</name>
+	<bn_name>নবাবগঞ্জ</bn_name>
+	<lat>24.5965034</lat>
+	<long>88.2775122</long>
+</districts>
+<districts>
+	<id>23</id>
+	<division_id>5</division_id>
+	<name>Pabna</name>
+	<bn_name>পাবনা</bn_name>
+	<lat>23.998524</lat>
+	<long>89.233645</long>
+</districts>
+<districts>
+	<id>24</id>
+	<division_id>5</division_id>
+	<name>Rajshahi</name>
+	<bn_name>রাজশাহী</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>25</id>
+	<division_id>5</division_id>
+	<name>Sirajgonj</name>
+	<bn_name>সিরাজগঞ্জ</bn_name>
+	<lat>24.4533978</lat>
+	<long>89.7006815</long>
+</districts>
+<districts>
+	<id>26</id>
+	<division_id>6</division_id>
+	<name>Dinajpur</name>
+	<bn_name>দিনাজপুর</bn_name>
+	<lat>25.6217061</lat>
+	<long>88.6354504</long>
+</districts>
+<districts>
+	<id>27</id>
+	<division_id>6</division_id>
+	<name>Gaibandha</name>
+	<bn_name>গাইবান্ধা</bn_name>
+	<lat>25.328751</lat>
+	<long>89.528088</long>
+</districts>
+<districts>
+	<id>28</id>
+	<division_id>6</division_id>
+	<name>Kurigram</name>
+	<bn_name>কুড়িগ্রাম</bn_name>
+	<lat>25.805445</lat>
+	<long>89.636174</long>
+</districts>
+<districts>
+	<id>29</id>
+	<division_id>6</division_id>
+	<name>Lalmonirhat</name>
+	<bn_name>লালমনিরহাট</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>30</id>
+	<division_id>6</division_id>
+	<name>Nilphamari</name>
+	<bn_name>নীলফামারী</bn_name>
+	<lat>25.931794</lat>
+	<long>88.856006</long>
+</districts>
+<districts>
+	<id>31</id>
+	<division_id>6</division_id>
+	<name>Panchagarh</name>
+	<bn_name>পঞ্চগড়</bn_name>
+	<lat>26.3411</lat>
+	<long>88.5541606</long>
+</districts>
+<districts>
+	<id>32</id>
+	<division_id>6</division_id>
+	<name>Rangpur</name>
+	<bn_name>রংপুর</bn_name>
+	<lat>25.7558096</lat>
+	<long>89.244462</long>
+</districts>
+<districts>
+	<id>33</id>
+	<division_id>6</division_id>
+	<name>Thakurgaon</name>
+	<bn_name>ঠাকুরগাঁও</bn_name>
+	<lat>26.0336945</lat>
+	<long>88.4616834</long>
+</districts>
+<districts>
+	<id>34</id>
+	<division_id>1</division_id>
+	<name>Barguna</name>
+	<bn_name>বরগুনা</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>35</id>
+	<division_id>1</division_id>
+	<name>Barishal</name>
+	<bn_name>বরিশাল</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>36</id>
+	<division_id>1</division_id>
+	<name>Bhola</name>
+	<bn_name>ভোলা</bn_name>
+	<lat>22.685923</lat>
+	<long>90.648179</long>
+</districts>
+<districts>
+	<id>37</id>
+	<division_id>1</division_id>
+	<name>Jhalokati</name>
+	<bn_name>ঝালকাঠি</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>38</id>
+	<division_id>1</division_id>
+	<name>Patuakhali</name>
+	<bn_name>পটুয়াখালী</bn_name>
+	<lat>22.3596316</lat>
+	<long>90.3298712</long>
+</districts>
+<districts>
+	<id>39</id>
+	<division_id>1</division_id>
+	<name>Pirojpur</name>
+	<bn_name>পিরোজপুর</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>40</id>
+	<division_id>2</division_id>
+	<name>Bandarban</name>
+	<bn_name>বান্দরবান</bn_name>
+	<lat>22.1953275</lat>
+	<long>92.2183773</long>
+</districts>
+<districts>
+	<id>41</id>
+	<division_id>2</division_id>
+	<name>Brahmanbaria</name>
+	<bn_name>ব্রাহ্মণবাড়িয়া</bn_name>
+	<lat>23.9570904</lat>
+	<long>91.1119286</long>
+</districts>
+<districts>
+	<id>42</id>
+	<division_id>2</division_id>
+	<name>Chandpur</name>
+	<bn_name>চাঁদপুর</bn_name>
+	<lat>23.2332585</lat>
+	<long>90.6712912</long>
+</districts>
+<districts>
+	<id>43</id>
+	<division_id>2</division_id>
+	<name>Chattogram</name>
+	<bn_name>চট্টগ্রাম</bn_name>
+	<lat>22.335109</lat>
+	<long>91.834073</long>
+</districts>
+<districts>
+	<id>44</id>
+	<division_id>2</division_id>
+	<name>Cumilla</name>
+	<bn_name>কুমিল্লা</bn_name>
+	<lat>23.4682747</lat>
+	<long>91.1788135</long>
+</districts>
+<districts>
+	<id>45</id>
+	<division_id>2</division_id>
+	<name>Cox&apos;s Bazar</name>
+	<bn_name>কক্স বাজার</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>46</id>
+	<division_id>2</division_id>
+	<name>Feni</name>
+	<bn_name>ফেনী</bn_name>
+	<lat>23.023231</lat>
+	<long>91.3840844</long>
+</districts>
+<districts>
+	<id>47</id>
+	<division_id>2</division_id>
+	<name>Khagrachari</name>
+	<bn_name>খাগড়াছড়ি</bn_name>
+	<lat>23.119285</lat>
+	<long>91.984663</long>
+</districts>
+<districts>
+	<id>48</id>
+	<division_id>2</division_id>
+	<name>Lakshmipur</name>
+	<bn_name>লক্ষ্মীপুর</bn_name>
+	<lat>22.942477</lat>
+	<long>90.841184</long>
+</districts>
+<districts>
+	<id>49</id>
+	<division_id>2</division_id>
+	<name>Noakhali</name>
+	<bn_name>নোয়াখালী</bn_name>
+	<lat>22.869563</lat>
+	<long>91.099398</long>
+</districts>
+<districts>
+	<id>50</id>
+	<division_id>2</division_id>
+	<name>Rangamati</name>
+	<bn_name>রাঙ্গামাটি</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+<districts>
+	<id>51</id>
+	<division_id>7</division_id>
+	<name>Habiganj</name>
+	<bn_name>হবিগঞ্জ</bn_name>
+	<lat>24.374945</lat>
+	<long>91.41553</long>
+</districts>
+<districts>
+	<id>52</id>
+	<division_id>7</division_id>
+	<name>Maulvibazar</name>
+	<bn_name>মৌলভীবাজার</bn_name>
+	<lat>24.482934</lat>
+	<long>91.777417</long>
+</districts>
+<districts>
+	<id>53</id>
+	<division_id>7</division_id>
+	<name>Sunamganj</name>
+	<bn_name>সুনামগঞ্জ</bn_name>
+	<lat>25.0658042</lat>
+	<long>91.3950115</long>
+</districts>
+<districts>
+	<id>54</id>
+	<division_id>7</division_id>
+	<name>Sylhet</name>
+	<bn_name>সিলেট</bn_name>
+	<lat>24.8897956</lat>
+	<long>91.8697894</long>
+</districts>
+<districts>
+	<id>55</id>
+	<division_id>4</division_id>
+	<name>Bagerhat</name>
+	<bn_name>বাগেরহাট</bn_name>
+	<lat>22.651568</lat>
+	<long>89.785938</long>
+</districts>
+<districts>
+	<id>56</id>
+	<division_id>4</division_id>
+	<name>Chuadanga</name>
+	<bn_name>চুয়াডাঙ্গা</bn_name>
+	<lat>23.6401961</lat>
+	<long>88.841841</long>
+</districts>
+<districts>
+	<id>57</id>
+	<division_id>4</division_id>
+	<name>Jashore</name>
+	<bn_name>যশোর</bn_name>
+	<lat>23.16643</lat>
+	<long>89.2081126</long>
+</districts>
+<districts>
+	<id>58</id>
+	<division_id>4</division_id>
+	<name>Jhenaidah</name>
+	<bn_name>ঝিনাইদহ</bn_name>
+	<lat>23.5448176</lat>
+	<long>89.1539213</long>
+</districts>
+<districts>
+	<id>59</id>
+	<division_id>4</division_id>
+	<name>Khulna</name>
+	<bn_name>খুলনা</bn_name>
+	<lat>22.815774</lat>
+	<long>89.568679</long>
+</districts>
+<districts>
+	<id>60</id>
+	<division_id>4</division_id>
+	<name>Kushtia</name>
+	<bn_name>কুষ্টিয়া</bn_name>
+	<lat>23.901258</lat>
+	<long>89.120482</long>
+</districts>
+<districts>
+	<id>61</id>
+	<division_id>4</division_id>
+	<name>Magura</name>
+	<bn_name>মাগুরা</bn_name>
+	<lat>23.487337</lat>
+	<long>89.419956</long>
+</districts>
+<districts>
+	<id>62</id>
+	<division_id>4</division_id>
+	<name>Meherpur</name>
+	<bn_name>মেহেরপুর</bn_name>
+	<lat>23.762213</lat>
+	<long>88.631821</long>
+</districts>
+<districts>
+	<id>63</id>
+	<division_id>4</division_id>
+	<name>Narail</name>
+	<bn_name>নড়াইল</bn_name>
+	<lat>23.172534</lat>
+	<long>89.512672</long>
+</districts>
+<districts>
+	<id>64</id>
+	<division_id>4</division_id>
+	<name>Satkhira</name>
+	<bn_name>সাতক্ষীরা</bn_name>
+	<lat>0</lat>
+	<long>0</long>
+</districts>
+	</Home>
